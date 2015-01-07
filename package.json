@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "connect-busboy": "0.0.2",
+    "express": "^4.10.5",
+    "filestorage": "^1.0.9",
+    "form-data": "^0.2.0",
+    "rimraf": "^2.2.8"
+  }
+}
